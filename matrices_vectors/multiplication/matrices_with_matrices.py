@@ -124,4 +124,4 @@ except (BaseException, Exception) as error:
         raise AssertionError("Second dimension of matrix "
                              "should be the same as dimension of vector!.")
     
-print("All tests were successful")
+print("All tests were successful.")
